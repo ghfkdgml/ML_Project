@@ -1,4 +1,4 @@
-Suho's Machine Learning test code Repo
+Suho's Machine Learning code
 ==
 
 # 용도
