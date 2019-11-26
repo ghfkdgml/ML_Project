@@ -1,0 +1,10 @@
+*.jpg
+*.JPG
+*.PNG
+*.mp4
+*.hdf5
+*.npy
+
+#directory
+Kaggle/Movie Rate/data/
+Kaggle/Movie Rate/test_data
